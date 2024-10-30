@@ -1,0 +1,6 @@
+@CockyEntertainment_HostAddress = http://localhost:5029
+
+GET {{CockyEntertainment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
